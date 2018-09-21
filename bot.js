@@ -14,4 +14,5 @@ if (message.content === 'spam') {
         }
       }
 });
+
 client.login(process.env.BOT_TOKEN);
