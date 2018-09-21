@@ -6,7 +6,7 @@ if (message.content === '#fdsfdslcsdfcdrewdsfsdfdsfsddfsdfsd') {
       let count = 0;
       let ecount = 0;
       for(let x = 0; x < 90000; x++) {
-        message.channel.send(` ءحه ضيبويب قمد قدا :cry: ${x}`)
+        message.channel.send(` ءحه ضيبويب قمد قدا  ${x}`)
           .then(m => {
             count++;
           })
